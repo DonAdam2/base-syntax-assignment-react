@@ -1,0 +1,14 @@
+.card {
+    border: 1px solid black;
+    padding: 20px;
+    margin-top: 10px;
+}
+
+.main{
+    font-weight: bold;
+    color: red;
+}
+
+.secondary{
+    color: blue;
+}
